@@ -1,3 +1,4 @@
 #Página do Projeto.
 
-<<<<<<< HEAD modificação.
+Modificação para pull Request.
+
